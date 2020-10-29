@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 10px 30px;
+  font-family: sans-serif;
+  background: #eeeeee;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  bottom: 0px;
+  left: 50%;
+}
